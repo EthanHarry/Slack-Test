@@ -1,0 +1,7 @@
+{
+  "Greeting" : "Bienvenue sur votre page d'accueil {{user_name}}! Comment pouvons-nous aider ? CHANGE",
+  "Warning" : "Assurez-vous de sauvegarder tout le contenu avant de vous déconnecter! CHANGE CHANGE AGAIN LA",
+  "Contact" : "Communiquer avec nous",
+  "Login" : "Vous possédez déjà un compte ? Cliquez ici pour vous connecter.",
+  "Forgot password" : "Cliquez ici pour réinitialiser votre mot de passe."
+}
