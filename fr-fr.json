@@ -1,7 +1,7 @@
 {
-  "Greeting" : "Welcome to your homepage {{user_name}}!  How can we help you?",
-  "Warning" : "Make sure you save all content before logging off!",
-  "Contact" : "Contact us",
-  "Login" : "Already have an account?  Click here to sign in.",
-  "Forgot password" : "Click here to reset your password.!!@!@!!! !"
+  "Greeting" : "Bienvenue sur votre page d'accueil {{user_name}}! Comment pouvons-nous aider ? CHANGE",
+  "Warning" : "Assurez-vous de sauvegarder tout le contenu avant de vous déconnecter! CHANGE CHANGE AGAIN LA",
+  "Contact" : "Communiquer avec nous",
+  "Login" : "Vous possédez déjà un compte ? Cliquez ici pour vous connecter.",
+  "Forgot password" : "Cliquez ici pour réinitialiser votre mot de passe."
 }
